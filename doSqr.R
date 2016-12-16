@@ -1,4 +1,4 @@
-calcSqr <- function(n)
+calcSqr <- function(o)
 {
-   n*n
+   o*o
 }
