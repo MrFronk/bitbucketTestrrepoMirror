@@ -1,4 +1,4 @@
-https://codeship.com/projects/7c3465e0-a5be-0134-c983-0675723f157f/status?branch=devel
+[ ![Codeship Status for frankdekievit50/testrrepo](https://app.codeship.com/projects/7c3465e0-a5be-0134-c983-0675723f157f/status?branch=devel)](https://app.codeship.com/projects/190932)
 
 
 # README #
